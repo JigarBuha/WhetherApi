@@ -1,0 +1,6 @@
+framework module Pods_WhetherApi {
+  umbrella header "Pods-WhetherApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
